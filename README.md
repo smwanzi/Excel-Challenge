@@ -1,4 +1,4 @@
-# Homework-1
+# Excel-Challenge
 The goal of the assignment was to organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
 Used an Excel table to modify and analyze the data of 4,000 past Kickstarter projects. 
